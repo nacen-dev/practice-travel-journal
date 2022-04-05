@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/practice-travel-journal/static/css/main.15ff39d0.css",
+    "main.js": "/practice-travel-journal/static/js/main.e4067d5e.js",
+    "index.html": "/practice-travel-journal/index.html",
+    "main.15ff39d0.css.map": "/practice-travel-journal/static/css/main.15ff39d0.css.map",
+    "main.e4067d5e.js.map": "/practice-travel-journal/static/js/main.e4067d5e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15ff39d0.css",
+    "static/js/main.e4067d5e.js"
+  ]
+}
